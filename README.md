@@ -3,6 +3,7 @@
 ### I know...
 - 🐍 Python
 - 📊 R
+- 🌐 Javascript/Typescript
 - 🎮 Godot/GDScript
 
 ### I have...

@@ -3,6 +3,7 @@
 ### I know...
 - 🐍 Python
 - 📊 R
+- ![Golang](img/golang-color.png) Go
 - 🌐 Javascript/Typescript
 - 🎮 Godot/GDScript
 
@@ -14,6 +15,6 @@
   - ![Lockdown: Turret Defense](img/lockdown.png) *Lockdown: Turret Defense*
 
 ### I want to...
-- 🌱 Learn additional languages and skills (like Go)
+- 🌱 Learn additional languages and skills
 - 🤝 Collaborate on exciting projects with cool people 
 - 🛠️ Work on similar projects independently
